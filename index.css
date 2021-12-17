@@ -1,0 +1,31 @@
+section {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(163, 188, 214);
+    border-radius: 10px;
+    border: 1px rgb(48, 48, 56) solid;
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+}
+
+.result {
+    height: 50px;
+    width: 50px;
+}
+
+body {
+    font-family: "Helvetica Neue";
+}
+
+.lib {
+    text-align: center;
+    color: black;
+}
+
+.logoWeather {
+    fill: white;
+    display: flex;
+    align-items: center;
+    width: 20px;
+}
